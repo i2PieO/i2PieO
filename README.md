@@ -15,7 +15,7 @@
 | <a href="https://github.com/i2PieO/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=i2PieO&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="i2PieO's github stats" /></a> | <a href="https://github.com/i2PieO/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i2PieO&layout=compact&theme=buefy&hide_border=true" /></a> |
 
 #### Top Repositories
-<a href="https://github.com/i2PieO/github-readme-stats">
+<a href="https://github.com/i2PieO/spotify">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=i2PieO&repo=spotify&theme=buefy" />
 </a>
 <br />
